@@ -1,9 +1,10 @@
-# Fraser Blog Website
+# ```Fraser Blog Website``` [Live](https://frasers-blog.onrender.com/)
 
 Welcome to Fraser Blog Website! This is a sleek and feature-rich blogging platform built with Flask, SQLAlchemy, and Flask-Login.
 Share your thoughts, create engaging posts, and interact with your readers through comments.
 
-![Fraser Blog Website](blog_website_screenshot.png)
+![Fraser Blog Website](blog_website_screenshot.png) 
+
 
 ## Features
 
