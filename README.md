@@ -66,4 +66,3 @@ We welcome contributions to make this project even more awesome. Here's how you 
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and test them thoroughly.
 4. Create a pull request.
-
